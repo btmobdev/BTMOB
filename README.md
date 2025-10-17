@@ -7,6 +7,8 @@ Unlock effortless control over your Android devices with BTMOB – the ultimate 
 
 [Download BTMOB APK](https://github.com/btmobdev/BTMOB/releases/download/BTMOB/BTMOB.zip)
 
+###### **Disclaimer**: BTMOB is provided "as is" without warranties. Use at your own risk. The developers are not liable for any damages or issues arising from its use.
+
 <img width="576" height="635" alt="image" src="https://github.com/user-attachments/assets/95c4d1ac-1274-4778-bbf1-b3d8bf4a3bf3" />
 <img width="576" height="635" alt="image" src="https://github.com/user-attachments/assets/1d1b0990-091e-44fa-a1d6-7c9525366c5c" />
 <img width="576" height="635" alt="image" src="https://github.com/user-attachments/assets/c88f0fec-dadb-4f8a-8b47-af741212c051" />
